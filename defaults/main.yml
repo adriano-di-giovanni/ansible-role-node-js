@@ -1,2 +1,2 @@
 ---
-# defaults file for ansible-role-node-js
+node_js_version: 6.x
