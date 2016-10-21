@@ -1,5 +1,7 @@
 # Ansible Role: Node.js
 
+[![Build Status](https://travis-ci.org/adriano-di-giovanni/ansible-role-node-js.svg?branch=master)](https://travis-ci.org/adriano-di-giovanni/ansible-role-node-js)
+
 Ansible role for Node.js:
 
 * basic, opinionated install
